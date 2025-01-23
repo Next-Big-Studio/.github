@@ -23,7 +23,7 @@ Thank you to everyone who contributed to our projects! 🎉
 | Joseph Garzon      | [@Joseph-Garzon](https://github.com//Joseph-Garzon)    | Creative Lead & 2D Artist     |
 | Mateus Smith       | [@GrapeJuices](https://github.com/grapejuices)         | 3D Artist & Systems Engineer  |
 | Hernan Cabrera     | [@CabrrHernan](https://github.com/CabrrHernan)         | 2D Artist & Concept Artist    |
-| Joshua Novak       | [@AlrightyTighty](ttps://github.com/AlrightyTighty)   | Gameplay Engineer             |
+| Joshua Novak       | [@AlrightyTighty](https://github.com/AlrightyTighty)   | Gameplay Engineer             |
 | Rohan Kancherla    | [@TRD159](https://github.com/TRD159)                   | Gameplay Engineer             |
 | Nhi Thi Hoang Ho   | [@htnhi](https://github.com/htnhi)                     | Gameplay Engineer             |
 
