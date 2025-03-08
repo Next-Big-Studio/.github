@@ -14,7 +14,7 @@ Thank you to everyone who contributed to our projects! 🎉
 | Shahaz Modi        | [@shahaz16](https://github.com/shahaz16)               | Concept Artist                |
 | Ryan Smeby         | [@RSmeby](https://github.com/RSmeby)                   | Gameplay Engineer             |
 | Quoc Pham          | [@minhdmc](https://github.com/minhdmc)                 | Gameplay Engineer             |
-| Santiago Garzon    | N/A                                                     | 2D Artist                     |
+| Santiago Garzon    | N/A                                                    | 2D Artist                     |
 
 **COSC 4359 - Intermediate Interactive Game Development (Spring 2025)**
 | Name               | GitHub Profile                                          | Contribution                  |
@@ -23,9 +23,9 @@ Thank you to everyone who contributed to our projects! 🎉
 | Joseph Garzon      | [@Joseph-Garzon](https://github.com//Joseph-Garzon)    | Creative Lead & 2D Artist     |
 | Mateus Smith       | [@GrapeJuices](https://github.com/grapejuices)         | 3D Artist & Systems Engineer  |
 | Hernan Cabrera     | [@CabrrHernan](https://github.com/CabrrHernan)         | 2D Artist & Concept Artist    |
-| Joshua Novak       | [@AlrightyTighty](https://github.com/AlrightyTighty)   | Gameplay Engineer             |
 | Rohan Kancherla    | [@TRD159](https://github.com/TRD159)                   | Gameplay Engineer             |
 | Nhi Thi Hoang Ho   | [@htnhi](https://github.com/htnhi)                     | Gameplay Engineer             |
+| Joshua Novak       | [@AlrightyTighty](https://github.com/AlrightyTighty)   | Technical Direction           |
 
 ## Links
 Here are some of our links!
