@@ -19,13 +19,13 @@ Thank you to everyone who contributed to our projects! 🎉
 **COSC 4359 - Intermediate Interactive Game Development (Spring 2025)**
 | Name               | GitHub Profile                                          | Contribution                  |
 |--------------------|---------------------------------------------------------|-------------------------------|
-| Nicklas Daugherty  | [@Rallysoldier](https://github.com/Rallysoldier)       | Team Lead and Sound Engineer  |
-| Joseph Garzon      | [@Joseph-Garzon](https://github.com//Joseph-Garzon)    | Creative Lead & 2D Artist     |
-| Mateus Smith       | [@GrapeJuices](https://github.com/grapejuices)         | 3D Artist & Systems Engineer  |
-| Hernan Cabrera     | [@CabrrHernan](https://github.com/CabrrHernan)         | 2D Artist & Concept Artist    |
-| Rohan Kancherla    | [@TRD159](https://github.com/TRD159)                   | Gameplay Engineer             |
-| Nhi Thi Hoang Ho   | [@htnhi](https://github.com/htnhi)                     | Gameplay Engineer             |
-| Joshua Novak       | [@AlrightyTighty](https://github.com/AlrightyTighty)   | Technical Direction           |
+| Joseph Garzon      | [@Joseph-Garzon](https://github.com//Joseph-Garzon)     | Team Lead & 2D Artist         |
+| Hernan Cabrera     | [@CabrrHernan](https://github.com/CabrrHernan)          | 2D Artist & Concept Artist    |
+| Mateus Smith       | [@GrapeJuices](https://github.com/grapejuices)          | Lead Gameplay Engineer        |
+| Nhi Thi Hoang Ho   | [@htnhi](https://github.com/htnhi)                      | Gameplay Engineer             |
+| Rohan Kancherla    | [@TRD159](https://github.com/TRD159)                    | Gameplay Engineer             |
+| Nicklas Daugherty  | [@Rallysoldier](https://github.com/Rallysoldier)        | Gameplay Engineer             |
+| Joshua Novak       | [@AlrightyTighty](https://github.com/AlrightyTighty)    | Technical Direction           |
 
 ## Links
 Here are some of our links!
