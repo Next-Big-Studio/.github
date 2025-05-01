@@ -30,10 +30,16 @@ Thank you to everyone who contributed to our projects! 🎉
 ## Links
 Here are some of our links!
 
-[Public Repository](https://github.com/Next-Big-Studio/Upgrade-Your-Bumper-Public/)
+[Public Repository for 2024](https://github.com/Next-Big-Studio/Upgrade-Your-Bumper-Public/)
 
 [Our itch.io](https://nextbigstudio.itch.io/)
 
-[Game Trailer](https://www.youtube.com/watch?v=d8GZVLagvGg)
+[Game Trailer for 2024](https://youtu.be/T7BgbTNS5xk)
+[Game Trailer for 2025](https://youtu.be/dk-TfS149kA)
+## FAQ
+
+### Will the repository for the 2025 version be made public?
+
+No, simply because we have a lot of assets that depend on other assets originating from the Unity Asset Store. 
 
 
