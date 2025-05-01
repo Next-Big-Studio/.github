@@ -3,7 +3,7 @@
 ## Meet the Team!
 Thank you to everyone who contributed to our projects! 🎉
 
-**COSC 4358 - Introduction to Interactive Game Development (Fall 2024)**
+### **COSC 4358 - Introduction to Interactive Game Development (Fall 2024)**
 | Name               | GitHub Profile                                          | Contribution                  |
 |--------------------|---------------------------------------------------------|-------------------------------|
 | Joseph Garzon      | [@Joseph-Garzon](https://github.com//Joseph-Garzon)    | Team Lead & Creative Lead     |
@@ -16,7 +16,20 @@ Thank you to everyone who contributed to our projects! 🎉
 | Quoc Pham          | [@minhdmc](https://github.com/minhdmc)                 | Gameplay Engineer             |
 | Santiago Garzon    | N/A                                                    | 2D Artist                     |
 
-**COSC 4359 - Intermediate Interactive Game Development (Spring 2025)**
+The number of additions and deletions for each contributor
+![The number of additions and deletions for each contributor on a graph](https://github.com/Next-Big-Studio/.github/blob/main/profile/adddel2024.png)
+
+The number of commits for each contributor
+![The number of commits for each contributor on a graph](https://github.com/Next-Big-Studio/.github/blob/main/profile/commits2024.png)
+
+The number of additions and deletions each month
+![The number of additions and deletions for each month on a graph](https://github.com/Next-Big-Studio/.github/blob/main/profile/monthly_adddel2024.png)
+
+The number of commits each month
+![The number of commits for each month on a graph](https://github.com/Next-Big-Studio/.github/blob/main/profile/monthly_commits2024.png)
+
+
+### #**COSC 4359 - Intermediate Interactive Game Development (Spring 2025)**
 | Name               | GitHub Profile                                          | Contribution                  |
 |--------------------|---------------------------------------------------------|-------------------------------|
 | Joseph Garzon      | [@Joseph-Garzon](https://github.com//Joseph-Garzon)     | Team Lead & 2D Artist         |
@@ -26,6 +39,19 @@ Thank you to everyone who contributed to our projects! 🎉
 | Rohan Kancherla    | [@TRD159](https://github.com/TRD159)                    | Gameplay Engineer             |
 | Nicklas Daugherty  | [@Rallysoldier](https://github.com/Rallysoldier)        | Gameplay Engineer             |
 | Joshua Novak       | [@AlrightyTighty](https://github.com/AlrightyTighty)    | Technical Direction           |
+
+The number of additions and deletions for each contributor
+![The number of additions and deletions for each contributor on a graph](https://github.com/Next-Big-Studio/.github/blob/main/profile/adddel2025.png)
+
+The number of commits for each contributor
+![The number of commits for each contributor on a graph](https://github.com/Next-Big-Studio/.github/blob/main/profile/commits2025.png)
+
+The number of additions and deletions each month
+![The number of additions and deletions for each month on a graph](https://github.com/Next-Big-Studio/.github/blob/main/profile/monthly_adddel2025.png)
+
+The number of commits each month
+![The number of commits for each month on a graph](https://github.com/Next-Big-Studio/.github/blob/main/profile/monthly_commits2025.png)
+
 
 ## Links
 Here are some of our links!
