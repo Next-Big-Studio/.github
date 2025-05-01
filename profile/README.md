@@ -35,7 +35,9 @@ Here are some of our links!
 [Our itch.io](https://nextbigstudio.itch.io/)
 
 [Game Trailer for 2024](https://youtu.be/T7BgbTNS5xk)
+
 [Game Trailer for 2025](https://youtu.be/dk-TfS149kA)
+
 ## FAQ
 
 ### Will the repository for the 2025 version be made public?
