@@ -45,16 +45,16 @@ ___
 
 ### 📈 Stats
 
-###### The number of additions and deletions for each contributor 
+##### The number of additions and deletions for each contributor 
 ![The number of additions and deletions for each contributor on a graph](https://github.com/Next-Big-Studio/.github/blob/main/profile/adddel2025.png)
 
-###### The number of commits for each contributor 
+##### The number of commits for each contributor 
 ![The number of commits for each contributor on a graph](https://github.com/Next-Big-Studio/.github/blob/main/profile/commits2025.png)
 
-###### The number of additions and deletions each month 
+##### The number of additions and deletions each month 
 ![The number of additions and deletions for each month on a graph](https://github.com/Next-Big-Studio/.github/blob/main/profile/monthly_adddel2025.png)
 
-###### The number of commits each month 
+##### The number of commits each month 
 ![The number of commits for each month on a graph](https://github.com/Next-Big-Studio/.github/blob/main/profile/monthly_commits2025.png)
 
 ___
